@@ -9,7 +9,7 @@ Click [here](https://drive.google.com/open?id=1YphthJc6d821jIGOnT2pGm4orp2cOthL&
 ## Datasets
 
 
-Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
+* Bullet list
+  * Nested bullet
+    * Sub-nested bullet etc
+* Bullet list item 2
