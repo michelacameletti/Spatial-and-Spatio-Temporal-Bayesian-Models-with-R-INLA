@@ -12,7 +12,17 @@ Spatial and Spatio-temporal Bayesian models with R-INLA introduces the basic par
 
 The combination of detailed theory and practical data analysis is beneficial for readers at any level. The coding of all the examples in R-INLA and the availability of all the datasets used throughout the book on the INLA website (www.r-inla.org) make an appealing feature for applied researchers wanting to approach or increase their knowledge and practice of the INLA method.
 
+## Contacts
+* Marta Blangiardo,
+MRC-PHE Centre for Environment and Health
+Dept. of Epidemiology and Biostatistics
+Imperial College London, UK
+email: m.blangiardo@imperial.ac.uk
 
+* Michela Cameletti
+Dept. of Economics
+University of Bergamo, Bergamo, Italy
+email: michela.cameletti@unibg.it 
 
 ## R Code
 
