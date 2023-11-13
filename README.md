@@ -8,8 +8,12 @@ Click [here](https://drive.google.com/open?id=1YphthJc6d821jIGOnT2pGm4orp2cOthL&
 
 ## Datasets
 
+* National morbidity, mortality and air pollution study
+This dataset is described in Section 1.4.1 and used in Section 5.1.2. Click [here](https://drive.google.com/open?id=1Yt17udN0XWWZaqreKP8N5TlySYbYcYX5&usp=drive_fs) to get the data.
+* Average income in Swedish municipalities
+This dataset is described in Section 1.4.2 and used in Section 5.2.1 Click [here](https://drive.google.com/open?id=1Z3hZqmjiQ8F9LAQ9fUd-VGUyT8UlvnVS&usp=drive_fs) to get the data.
 
-* Bullet list
-  * Nested bullet
-    * Sub-nested bullet etc
-* Bullet list item 2
+## Errata
+Click [here](https://drive.google.com/open?id=1Ys83fWwwciaHBeyhJ9MZcw67v4kEZaaI&usp=drive_fs) to download the errata file.
+
+
