@@ -31,25 +31,25 @@ Click [here](https://drive.google.com/open?id=1YphthJc6d821jIGOnT2pGm4orp2cOthL&
   * This dataset is described in Section 1.4.1 and used in Section 5.1.2. Click [here](https://drive.google.com/open?id=1Yt17udN0XWWZaqreKP8N5TlySYbYcYX5&usp=drive_fs) to get the data.
 * **Average income in Swedish municipalities**
   * This dataset is described in Section 1.4.2 and used in Section 5.2.1 Click [here](https://drive.google.com/open?id=1Z3hZqmjiQ8F9LAQ9fUd-VGUyT8UlvnVS&usp=drive_fs) to get the data.
-* Stroke in Sheffield
+* **Stroke in Sheffield**
   * This dataset is described in Section 1.4.3 and used in Section 2.3, 5.3, 5.4.6 and 5.5. Click [here](https://drive.google.com/open?id=1aTLnyDlPXx-T0QomavbuMytk1nq1MLdn&usp=drive_fs) to get the data.
-* Ship accidents
+* **Ship accidents**
   * This dataset is described in Section 1.4.4 and used in Section 5.3. Click [here](https://drive.google.com/open?id=1aTZLVswoZTJYjkt3Th69bblq4uPGRXGC&usp=drive_fs) to get the data.
-* CD4 in HIV patients
+* **CD4 in HIV patients**
   * This dataset is described in Section 1.4.5 and used in Section 5.4.4, 5.6.1 and 5.6.2. Click [here](https://drive.google.com/open?id=1aUCL3f5b4IP8e0AhnGttOkfme9Pm-5ib&usp=drive_fs) to get the data.
-* Lip cancer in Scotland
+* **Lip cancer in Scotland**
   * This dataset is described in Section 1.4.6 and used in Section 5.4.5 and 5.6.1. Click [here](https://drive.google.com/open?id=1aUELxVJ8rgs59F1Y-hfhvTvugpnjiHO3&usp=drive_fs) to get the data.
-* Suicides in London
+* **Suicides in London**
   * This dataset is described in Section 1.4.7 and used in Section 6.1.2 and 6.2. Click [here](https://drive.google.com/open?id=1YUzx7KQZqlNiN6j8wxeOV5bEJ8DohQ0P&usp=drive_fs) to get the data.
-* Brain cancer in Navarra, Spain
+* **Brain cancer in Navarra, Spain**
   * This dataset is described in Section 1.4.8 and used in Section 6.3.1. Click [here](https://drive.google.com/open?id=1YikBETAUbQgKSOg6IFnJVOdlMHFdPOQM&usp=drive_fs) to get the data.
-* Respiratory hospital admission in Turin province
+* **Respiratory hospital admission in Turin province, Italy**
   * This dataset is described in Section 1.4.9 and used in Section 6.3.2. Click [here](https://drive.google.com/open?id=1YUZV4-Z01h1lyWnZH6wSo-5q_pQUns_y&usp=drive_fs) to get the data.
-* Lung cancer mortality in Ohio
+* **Lung cancer mortality in Ohio**
   * This dataset is described in Section 1.4.12 and used in Section 7.1. Click [here](https://drive.google.com/open?id=1YMwjMDqtxaKAz7E4__Oovihuo3WW6HUO&usp=drive_fs) to get the data.
-* Low birth weight births in Georgia
+* **Low birth weight births in Georgia**
   * This dataset is described in Section 1.4.13 and used in Section 7.1.1 and 7.1.2. Click [here](https://drive.google.com/open?id=1YbUZWPWCDYgqjbWOrpB_EwgMHPcoSmiZ&usp=drive_fs) to get the data.
-* Air pollution in Piemonte
+* **Air pollution in Piemonte**
   * This dataset is described in Section 1.4.14 and used in Section 7.2. Click [here](https://drive.google.com/open?id=1YJd6kXhnM0aPI-y-KZGKv2cJY3jyMDiI&usp=drive_fs) to get the data.
 
 
