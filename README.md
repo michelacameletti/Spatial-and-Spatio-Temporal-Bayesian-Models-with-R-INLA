@@ -14,15 +14,12 @@ The combination of detailed theory and practical data analysis is beneficial for
 
 ## Contacts
 * Marta Blangiardo,
-MRC-PHE Centre for Environment and Health
-Dept. of Epidemiology and Biostatistics
-Imperial College London, UK
-email: m.blangiardo@imperial.ac.uk
+  * MRC-PHE Centre for Environment and Health, Dept. of Epidemiology and Biostatistics, Imperial College London, UK
+  * email: m.blangiardo@imperial.ac.uk
 
 * Michela Cameletti
-Dept. of Economics
-University of Bergamo, Bergamo, Italy
-email: michela.cameletti@unibg.it 
+  * Dept. of Economics, University of Bergamo, Bergamo, Italy
+  * email: michela.cameletti@unibg.it 
 
 ## R Code
 
