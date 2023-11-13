@@ -1,7 +1,6 @@
 # Spatial and Spatio-Temporal Bayesian Models with R
 
-![cover](cover.jpg | width=20)
-
+![](cover.jpg){width="20%"}
 
 This page contains the material related to the book "Spatial and Spatio-Temporal Bayesian Models with R" published by Wiley ([See here](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118950203)).
 
